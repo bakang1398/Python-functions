@@ -42,4 +42,4 @@ Don't forget to give the project a star! Thanks again!
 
 ## Acknowledgments
 * Girlcode_ZA Team
-* [Stackoverflow](https://stackoverflow.com/questions/35166633/how-do-i-multiply-each-element-in-a-list-by-a-number/35166717
+* [Stackoverflow](https://stackoverflow.com/questions/35166633/how-do-i-multiply-each-element-in-a-list-by-a-number/35166717)
