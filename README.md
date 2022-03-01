@@ -3,7 +3,7 @@ Showcases basic to intermediate understanding of python functions.
 
 ## Description
 This project includes exercises that use Python to generate required results.
-## Exercises 
+### Exercises 
  ### Average
   * Write a method average_of_three(num1, num2, num3) that returns the average of three numbers
  ### Doubler
